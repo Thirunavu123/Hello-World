@@ -1,0 +1,8 @@
+fpdf
+numpy
+pandas
+pdfkit
+PyPDF2
+reportlab
+streamlit
+streamlit-aggrid
